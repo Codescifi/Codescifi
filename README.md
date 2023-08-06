@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Code_sci-fi</h1>
-<img SRC="banner.jpg" alt="codescifi ">
+<img SRC="banner.jpg" alt="codescifi "/>
 <h3 align="center">Learning Algorithms vastness</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codescifi&label=Profile%20views&color=0e75b6&style=flat" alt="codescifi" /> </p>
